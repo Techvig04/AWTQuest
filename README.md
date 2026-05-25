@@ -1,6 +1,6 @@
 # 🎮 AWTQuest: An Interactive ASP.NET Learning Platform
 
-[![Live Demo](https://img.shields.io/badge/Play_Now-Live_Demo-success?style=for-the-badge)](http://awtquest.somee.com)
+[![Live Demo](http://www.awtquest.somee.com/)
 
 AWTQuest is a gamified, interactive educational web application built to teach and test advanced ASP.NET concepts. From foundational Web Forms architecture to Post-Graduate level CI/CD pipelines and MVC routing, this platform transforms standard studying into a hands-on arcade experience.
 
