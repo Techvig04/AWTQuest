@@ -5,7 +5,7 @@
 AWTQuest is a gamified, interactive educational web application built to teach and test advanced ASP.NET concepts. From foundational Web Forms architecture to Post-Graduate level CI/CD pipelines and MVC routing, this platform transforms standard studying into a hands-on arcade experience.
 
 ## 🚀 Live Project
-**Play the game here:** http://www.awtquest.somee.com](http://www.awtquest.somee.com)
+**Play the game here:** http://www.awtquest.somee.com
 *(Note: As this is hosted on a free tier, the initial load may take 10-15 seconds as the server wakes up).*
 
 ## 🌟 Key Features
